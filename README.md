@@ -1,6 +1,7 @@
-# globalhost
+#Flutter Web Hosting UI Design
 
-A new Flutter project.
+A Flutter Website Template for Web-Hosting company
+
 
 ## Getting Started
 
